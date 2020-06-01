@@ -1,0 +1,24 @@
+.btn{
+
+    margin-top: 20px;
+}
+
+#yeah, #oops{
+
+    display: none;
+}
+
+.container{
+
+    margin-top: 50px;
+}
+
+h1{
+
+    cursor: pointer;
+}
+
+.img{
+
+    width: 50%;
+}
